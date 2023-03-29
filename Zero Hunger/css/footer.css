@@ -1,3 +1,47 @@
-footer img{
-    width: 98.8vw;
+footer{
+    background-color: #202020;
 }
+
+footer img{
+    width: 98.8%;
+}
+
+footer h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    text-decoration: solid;
+    color: #beb6b6;
+    padding-top: 6rem;
+    
+}
+
+
+.contactus ul {
+    font-size: x-large;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between ;
+    color: #beb6b6;
+   
+   padding: 4rem 12rem;
+}
+
+
+footer h3{
+    color: aquamarine;
+}
+footer .copy{
+    color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: 500;
+}
+footer .copy img{
+    height: 4.6rem;
+    width: 7rem;
+}
+
+

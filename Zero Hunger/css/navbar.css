@@ -6,10 +6,11 @@
     height: 4rem ;
     display: flex;
     justify-content: space-between;
-    background-color: gold;
+    background-color: #f3ab05;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
 .imga img{
     height: 3rem;

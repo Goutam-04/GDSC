@@ -1,0 +1,33 @@
+.sec4{
+    background-color: rgba(144, 238, 144, 0.115);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.sec4 p{
+    font-size: xx-large;
+    font-weight: 525;
+
+}
+.sec4 .content button{
+    display: flex;
+    margin: 2rem;
+    flex-direction: column;
+    color: white;
+    background-color: #f3ab05;
+    border-radius: 22px;
+    height: 2.6rem;
+    width: 25rem;
+    font-weight: 700;
+    align-items: center;
+    padding-top: 0.4rem;
+}
+.sec4 .content button p{
+   
+    text-align: center;
+    font-size: x-large;
+}
+.sec4 .imag img{
+    height: 25rem;
+    width: 41rem;
+}

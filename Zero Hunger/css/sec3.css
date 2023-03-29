@@ -4,3 +4,29 @@
 .sec3 h1{
     text-align: center;
 }
+.sec3 .full {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 4rem 7rem;
+}
+.sec3 .content{
+    padding-left: 3rem;
+}
+.sec3 .content p{
+    
+    font-size: larger;
+    font-weight: 400;
+    padding-bottom: 4rem;
+   
+}
+.sec3 .content button{
+    color: white;
+    background: #f3ab05;
+    border: none;
+    border-radius: 22px;
+    height: 3rem;
+    width: 8rem;
+    position: relative;
+    left: 30rem;
+}
