@@ -40,3 +40,7 @@
     font-size: x-large;
     
 }
+.sec1 .text1 .donate:hover{
+    background: darkred;
+    cursor: pointer;
+}

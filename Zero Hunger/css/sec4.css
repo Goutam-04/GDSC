@@ -31,3 +31,7 @@
     height: 25rem;
     width: 41rem;
 }
+.sec4 .content button:hover{
+    background: darkred;
+    cursor: pointer;
+}

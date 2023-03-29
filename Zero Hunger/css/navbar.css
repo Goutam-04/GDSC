@@ -41,6 +41,11 @@
     margin-right: 4.2rem;
     border: 0.1rem darkred solid;
     border-radius: 20px;
+    background-color: #f3ab05;
+}
+.register:hover{
+    background: darkred;
+    cursor: pointer;
 }
 .register h4{
     color: whitesmoke;
