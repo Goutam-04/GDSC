@@ -1,0 +1,47 @@
+*{margin: 0;
+    padding: 0;
+}
+.navbar{
+    align-items: center;
+    height: 4rem ;
+    display: flex;
+    justify-content: space-between;
+    background-color: gold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: fixed;
+    width: 100%;
+}
+.imga img{
+    height: 3rem;
+    width: 3.5rem;
+}
+.imga{
+    display: flex;
+    margin-left: 4.2rem;
+}
+.imga h4{
+    color: whitesmoke;
+    align-items: center;
+    padding-top: 1rem;
+    padding-left: 0.6rem;
+}
+.links{
+    width: 26rem;
+    padding-right: 7rem;
+}
+.links ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    color: whitesmoke;
+}
+.register{
+    margin-right: 4.2rem;
+    border: 0.1rem darkred solid;
+    border-radius: 20px;
+}
+.register h4{
+    color: whitesmoke;
+    margin:0.3rem 1.6rem;
+}

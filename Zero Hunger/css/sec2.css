@@ -1,0 +1,25 @@
+.sec2{
+    margin-top: 7rem;
+    display: flex;
+    padding: 0 6rem;
+    margin-bottom: 4rem;
+    
+}
+.sec2 .part1{
+   
+    padding-right: 3.4rem;
+    color: black;
+    font-size: xx-large;
+    font-weight: 700;
+    font-stretch: semi-expanded;
+    width: 45vw;
+   
+    
+}
+.sec2 .part2{
+    width: 55vw;
+    margin: 0 3rem;
+    font-size: larger;
+    font-weight: 400;
+    
+}

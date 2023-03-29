@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.sec1{
+    background:gold;
+    height: 70vh;
+}
+.text1{
+    position: relative;
+    top: 10rem;
+    left: 10rem;
+    width:50vw;
+}
+.sec1 .text1 .heading{
+    color: darkred;
+    font-size: xx-large;
+    font-stretch: semi-expanded;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.sec1 .text1 .subHeading{
+    color: white;
+    font-size: larger;
+    font-weight: 400;
+    font-stretch: semi-expanded;
+    margin-bottom: 1.8rem;
+}
+.sec1 .text1 button{
+    position: relative;
+    left: 32rem;
+    color: white;
+    border: 3px darkred solid;
+    background-color:transparent;
+    border-radius: 22px;
+    width: 12rem;
+    height: 3.2rem;
+    font-weight: 550;
+    font-size: x-large;
+    
+}
