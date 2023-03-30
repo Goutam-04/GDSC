@@ -1,10 +1,10 @@
-# AAP- An app that connects NGO and volunteers
+# FEED INDIA - An webpage that connects NGO and volunteers
 
 <b> PROBLEM STATEMENT </b>
 
-Considering the socio-economic status of 138 crore population of our country, NGO’s in India have been rampantly working towards upliftment of social voids, generating awareness and acting as torch bearers lighting people’s lives.
-All they need are volunteers and support from the privileged one’s and these volunteers act as a backbone of any Non-profit organizations.
-Our application acts as an intermediary between an NGO and an individual willing to volunteer and contribute, thus easing out connectivity and accessibility.
+India has been grappling with the problem of zero hunger for decades, with millions of people facing food insecurity and malnutrition. Despite various government initiatives and interventions, the issue persists due to factors such as poverty, inequality, and lack of access to resources , whereas the food in the resturant is getting wasted.
+All they need are volunteers and support from the resturant's co-operation to getting that wasted food.
+Our website acts as an intermediary between an NGO and an individual resturant willing to contribute, thus easing out connectivity and accessibility.
 
 <b> PROPOSED SOLUTION </b>
 
