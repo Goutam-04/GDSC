@@ -21,6 +21,10 @@
     font-weight: 700;
     align-items: center;
     padding-top: 0.4rem;
+    
+}
+.sec4 .content a{
+    text-decoration: none;
 }
 .sec4 .content button p{
    
