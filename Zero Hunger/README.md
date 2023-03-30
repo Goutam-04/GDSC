@@ -8,16 +8,16 @@ Our website acts as an intermediary between an NGO and an individual resturant w
 
 <b> PROPOSED SOLUTION </b>
 
-The App asks users to register giving them options to log in as an Organizer or a Volunteer.
+The Website asks users to register giving them options to log in as an NGO or as a Resturant and a special donate button for those who want to help with their money.
 It first lists down the NGOs at a particular location giving access to two types of users of our app ie,<br>
-1.Organiser<br>
+1.Resturants<br>
 2.Volunteer<br>
-Organizer: A profile is made that allows users of the app to browse the details of a particular NGO along with the details of the point of contact.
-The organizer gets access to create, edit and update personal credentials as well as manage information regarding her/his NGO.<br>
+Resturants: A profile is made that allows resturant to upload the details of their remaining food and the location of the pick up point with contact details.
+The resturants gets access to create, edit and update their food stock and pick up point details .<br>
 
-Volunteer: A volunteer gets in to browse information about different NGOs listed in sorted manner according to the location.This view has two features
+Volunteer: A volunteer gets in to browse information about different pick up points with number of food packets in sorted manner according to the location.This view has two features
 Chat Support/Helpdesk- This helps the volunteer to resolve any kind of queries.<br>
-Contributor- This feature allows the volunteer to fill in personal details and submit an application for contribution.<br>
+Contributor- This feature allows a doner to fill in personal details and donate fund for well being of people.<br>
 
 ![appscr](https://user-images.githubusercontent.com/65532996/148741171-831af6a3-3aa5-455e-a50e-aa60d517b515.jpg)
 <br>
