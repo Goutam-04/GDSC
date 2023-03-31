@@ -36,6 +36,28 @@
     align-items: center;
     justify-content: space-between;
     color: whitesmoke;
+    font-weight: 600;
+}
+.links ul a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid #f3ab05;
+    border-radius: 22px;
+    height: 1.6rem;
+    width: 5rem;
+    text-align: center;
+    padding: 0.2rem;
+   
+
+}
+.links ul a:hover{
+    border-radius: 22px;
+    height: 1.6rem;
+    width: 5rem;
+    text-align: center;
+    padding: 0.2rem;
+    background: darkred;
+
 }
 .register{
     margin-right: 4.2rem;
