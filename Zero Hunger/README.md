@@ -40,7 +40,7 @@ Contributor- This feature allows a doner to fill in personal details and donate 
 - The website is yet to be modified to be used in a broader spectrum. We are planning to making a mobile app for this as well.<br>
 - The work of connecting resturant with NGOs is not done yet and the concept and code present only on the website only.<br>
 - You can access our website by link here:
-visit <a href="https://goutam-04.github.io/GDSC/Zero%20Hunger/" target="blank">Feed India</a>
+visit <a href="https://goutam-04.github.io/GDSC/Zero%20Hunger/" target="_blank">Feed India</a>
 <br>
 We wish to further work on improvising our webpage, add some advanced features like use of adhaar validation api, learn about food conservation page and many more things. Further,we plan to collaborate with a few local NGOs so that it can be widely used serving the purpose.<br>
 We aim to associate our website with the National Service Scheme(NSS) group at our University who will be responsible for testing and providing us with improved scalability thus making our website ready for a robust launch to be service-ready.<br>
