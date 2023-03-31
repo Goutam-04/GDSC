@@ -24,24 +24,24 @@ Contributor- This feature allows a doner to fill in personal details and donate 
 
 <b> FUNCTIONALITY AND CONCEPTS USED </b>
 
-- Live Data and View Model: View Model is used to make the app flexible to changes and the reflected changes in the UI fragments are observed using LiveData.<br>
+- FIREBASE AUTHENTICATION: The login and signup functionality of the app is implemented using the firebase authentication. Each valid user is allowed to create an account with the help of the email and password and can log back in with the same credentials.<br>
 - Room Database: The user details are stored using Room Database.Also, it is used for user authentication.<br>
-- Navigation Library: The bottom navigation in our app is implemented using the navigation library in order to ease out navigation between the Join, Donate and Chat options as separate fragments in our app.<br>
-- Retrofit for the internet: The network requests to the API are done using the Retrofit library. When a user logs in or registers, the API returns a token that gets stored in the room database.On every subsequent request made, the token is passed as an authorization header using Retrofit in order to get other authentication datas like user profile details.<br>
-- Recycler view: Recycler view is used to make the app lightweight. It is used to list down the NGOs in our app. Also,the horizontally scrollable gallery in the profile section of our app is created using the Recycler view.<br>
-- setImageResource():This function is used in the  recyclerView adapters to bind the images.It was implemented while working with images.<br>
-- GSON lib: .In our app it is used with retrofit to convert JSON into Kotlin objects for smooth transmission for data between server and our application.<br>
-All the pages were implemented using Fragments and to prevent implementation of functions on the main thread, Coroutines were used.<br>
+- GPS Navigation system: We use GPS navigation system for convinience of the volenteer to reach the right location of pick up and delivery location.<br>
+
+
+
+
+
 
 <b> APPLICATION AND FUTURE SCOPE </b>
 
 
-The app is yet to be modified to be used in a broader spectrum.<br>
-The organiser mode is yet to be worked on and is presently on the server side.<br>
-You can access the link here:
-<a href="https://drive.google.com/drive/folders/1im1f7it62AK0PkW96h-AUdx0nDBDJwYg?usp=sharing">Download apk</a>
+- The website is yet to be modified to be used in a broader spectrum. We are planning to making a mobile app for this as well.<br>
+- The work of connecting resturant with NGOs is not done yet and the concept and code present only on the website only.<br>
+- You can access our website by link here:
+visit <a href="https://goutam-04.github.io/GDSC/Zero%20Hunger/">Feed India</a>
 <br>
-We wish to further work on improvising our app, add some advanced features enabling chat and video features to work thus making it more flexible.Further,we plan to collaborate with a few local NGOs so that it can be widely used serving the purpose.<br>
-We aim to associate our app with the National Service Scheme(NSS) group at our University who will be responsible for testing and providing us with improved scalability thus making our app ready for a robust launch to be service-ready.<br>
-This app is definitely going to help the NGOs connect with contributors heading towards a more charitable society.
+We wish to further work on improvising our webpage, add some advanced features like use of adhaar validation api, learn about food conservation page and many more things. Further,we plan to collaborate with a few local NGOs so that it can be widely used serving the purpose.<br>
+We aim to associate our website with the National Service Scheme(NSS) group at our University who will be responsible for testing and providing us with improved scalability thus making our website ready for a robust launch to be service-ready.<br>
+The concept with the website is definitely going to help the NGOs connect with resturants helping towards filling the  empty stomach of hungery person.
 
