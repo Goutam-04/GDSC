@@ -43,5 +43,5 @@ visit <a href="https://goutam-04.github.io/GDSC/Zero%20Hunger/">Feed India</a>
 <br>
 We wish to further work on improvising our webpage, add some advanced features like use of adhaar validation api, learn about food conservation page and many more things. Further,we plan to collaborate with a few local NGOs so that it can be widely used serving the purpose.<br>
 We aim to associate our website with the National Service Scheme(NSS) group at our University who will be responsible for testing and providing us with improved scalability thus making our website ready for a robust launch to be service-ready.<br>
-The concept with the website is definitely going to help the NGOs connect with resturants helping towards filling the  empty stomach of hungery person.
+The concept with the website is definitely going to help the NGOs connect with resturants helping towards filling the  empty stomach of hungery person. 
 
