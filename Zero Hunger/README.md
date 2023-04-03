@@ -20,8 +20,7 @@ Chat Support/Helpdesk- This helps the volunteer to resolve any kind of queries.<
 
 Contributor- This feature allows a doner to fill in personal details and donate fund for well being of people.<br>
 
-![appscr](https://user-images.githubusercontent.com/65532996/148741171-831af6a3-3aa5-455e-a50e-aa60d517b515.jpg)
-<br>
+
 
 <b> FUNCTIONALITY AND CONCEPTS USED </b>
 
